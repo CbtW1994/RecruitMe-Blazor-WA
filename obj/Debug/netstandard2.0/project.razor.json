@@ -1,0 +1,56 @@
+{
+  "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\RecruitMe-BlazorWA.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "RecruitMe-BlazorWA",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Charlie Webb\\Documents\\Repos\\RecruitMe-BlazorWA\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
